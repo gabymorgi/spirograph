@@ -1,0 +1,63 @@
+.app{
+  display: flex;
+  position: relative;
+  background-color: black;
+  color: white;
+}
+
+.spirograph{
+  width: 500px;
+}
+
+.draw-container {
+  position: relative;
+}
+
+.container-disc {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  border: 1px solid #fffa;
+  display: flex;
+  align-items: center;
+}
+
+.disc {
+  border-radius: 50%;
+  background-color: brown;
+}
+
+.control-panel {
+  padding: 20px;
+  width: 30%;
+}
+
+.control-panel > * {
+  margin-bottom: 20px;
+}
+
+.spirograph-container{
+  display: flex;
+  justify-content: center;
+  width: 70%;
+}
+
+.samplesSelectRange .rc-slider-mark {
+  display: none;
+}
+
+.color {
+  text-align: center;
+  font-weight: 700;
+  border-radius: 6px;
+  margin-bottom: 5px;
+  min-width: 50px;
+  min-height: 10px;
+}
+
+.points-info {
+  text-align: center;
+}
