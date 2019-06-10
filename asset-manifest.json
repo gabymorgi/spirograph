@@ -1,15 +1,15 @@
 {
-  "main.css": "/spirograph/static/css/main.e39a9272.chunk.css",
-  "main.js": "/spirograph/static/js/main.d13b28cd.chunk.js",
-  "main.js.map": "/spirograph/static/js/main.d13b28cd.chunk.js.map",
+  "main.css": "/spirograph/static/css/main.0e6d42d6.chunk.css",
+  "main.js": "/spirograph/static/js/main.58295a04.chunk.js",
+  "main.js.map": "/spirograph/static/js/main.58295a04.chunk.js.map",
   "runtime~main.js": "/spirograph/static/js/runtime~main.882bc4bd.js",
   "runtime~main.js.map": "/spirograph/static/js/runtime~main.882bc4bd.js.map",
-  "static/css/2.f81d9e56.chunk.css": "/spirograph/static/css/2.f81d9e56.chunk.css",
-  "static/js/2.46dd9847.chunk.js": "/spirograph/static/js/2.46dd9847.chunk.js",
-  "static/js/2.46dd9847.chunk.js.map": "/spirograph/static/js/2.46dd9847.chunk.js.map",
+  "static/css/2.6d3d879e.chunk.css": "/spirograph/static/css/2.6d3d879e.chunk.css",
+  "static/js/2.9f8a8329.chunk.js": "/spirograph/static/js/2.9f8a8329.chunk.js",
+  "static/js/2.9f8a8329.chunk.js.map": "/spirograph/static/js/2.9f8a8329.chunk.js.map",
   "index.html": "/spirograph/index.html",
-  "precache-manifest.c22976059051ca7e937444137819d6a4.js": "/spirograph/precache-manifest.c22976059051ca7e937444137819d6a4.js",
+  "precache-manifest.ed077f26e9919b4b9b41cfda31904a2d.js": "/spirograph/precache-manifest.ed077f26e9919b4b9b41cfda31904a2d.js",
   "service-worker.js": "/spirograph/service-worker.js",
-  "static/css/2.f81d9e56.chunk.css.map": "/spirograph/static/css/2.f81d9e56.chunk.css.map",
-  "static/css/main.e39a9272.chunk.css.map": "/spirograph/static/css/main.e39a9272.chunk.css.map"
+  "static/css/2.6d3d879e.chunk.css.map": "/spirograph/static/css/2.6d3d879e.chunk.css.map",
+  "static/css/main.0e6d42d6.chunk.css.map": "/spirograph/static/css/main.0e6d42d6.chunk.css.map"
 }
