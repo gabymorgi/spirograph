@@ -39,14 +39,14 @@ const samplesHandle = (props) => {
 
 const initialState = {
   containerRadius: 500,
-  discRadius: 250,
-  holeDistance: 100,
-  samples: [1, 3],
+  discRadius: 370,
+  holeDistance: 142,
+  samples: [1, 7],
   pointsXlap: 10,
   maxPointsXlap: 45,
-  fps: 5,
-  parametrization: 1,
-  hue: 100,
+  fps: 45,
+  parametrization: 2,
+  hue: 80,
   luminosity: 50,
   discRadiusMarks: {250: 250},
 }

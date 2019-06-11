@@ -3,6 +3,7 @@
   position: relative;
   background-color: black;
   color: white;
+  min-height: 100vh;
 }
 
 .spirograph{
@@ -60,4 +61,18 @@
 
 .points-info {
   text-align: center;
+}
+
+@media only screen and (max-width : 991px) {
+  .app {
+    flex-direction: column;
+  }
+
+  .control-panel {
+    width: 90%;
+  }
+
+  .spirograph-container {
+    width: 100%;
+  }
 }
